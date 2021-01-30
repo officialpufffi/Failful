@@ -2,4 +2,10 @@
 
 -Remix failful by Pufffi-
 
-.____.
+
+- changed netherite color to purple
+- add new splashes
+
+
+
+.___.
